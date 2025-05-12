@@ -1,0 +1,5 @@
+IP-CIDR,8.8.8.0/24,♻️ 手动切换8
+IP-CIDR,1.1.1.1/24,♻️ 手动切换8
+IP-CIDR,95.161.76.100/31,REJECT-DROP,no-resolve
+
+
